@@ -1,0 +1,1 @@
+web: gunicorn smart_event_manager.wsgi
